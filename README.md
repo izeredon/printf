@@ -1,1 +1,1 @@
-Print function collabaration project
+Print function project that must be done with 2 peers
